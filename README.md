@@ -185,33 +185,6 @@ jupyter>=1.0.0
 - Develop visualization tools for fraud analysts
 - Create feature importance dashboards
 
-## 📊 Project Structure
-
-```
-credit-card-fraud-detection/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-│   ├── data_exploration.ipynb
-│   ├── model_training.ipynb
-│   └── evaluation.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   ├── evaluation.py
-│   └── utils.py
-├── models/
-│   ├── logistic_regression.pkl
-│   ├── neural_network.h5
-│   └── model_comparison.json
-├── results/
-│   ├── confusion_matrices/
-│   ├── performance_plots/
-│   └── model_metrics.csv
-├── requirements.txt
-├── README.md
-└── LICENSE
 ```
 
 
